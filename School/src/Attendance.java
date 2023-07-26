@@ -18,6 +18,7 @@ class Parent
 {
 public void displays()
 {
+	System.out.println("Paret method");
 	System.out.println("Parent method");
 }
 }
